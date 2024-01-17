@@ -287,6 +287,9 @@
         "TITLE": "引导提示",
         "LABEL": "在屏幕一角显示当前正在使用的 RemNote 功能提示",
         "KEYWORDS": "提示 帮助 支持 学习 教程"
+      },
+      "ONBOARDING_TIPS_FEATURES": {
+        "LABEL": "Support for reinstallation search to fix errors\n"
       }
     },
     "EDITOR_INTERFACE": {
@@ -605,6 +608,21 @@
         "PAYWALL": "您已达到 PDF 上传限制",
         "todo_for_the_item_below": "是否将其移动到全局功能名称对象中？",
         "FEATURE_NAME": "PDF 高亮"
+      }
+    }
+  },
+  "ONBOARDING": {
+    "SIDEBAR": {
+      "INITIAL": {
+        "0": {
+          "TITLE": "创建一个文件夹"
+        },
+        "2": {
+          "TITLE": "制作一张抽认卡"
+        },
+        "3": {
+          "TITLE": "使用Tab构建注释"
+        }
       }
     }
   },

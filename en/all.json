@@ -64,7 +64,9 @@
       "PRIVACY": {
         "TITLE": "Privacy",
         "KEYWORDS": "privacy"
-      }
+      },
+      "AUTHENTICATION_KEYWORDS": "Log out Log out of Google Login Add disconnected login registration",
+      "ADVANCED_KEYWORDS": "Support for reinstallation search to fix errors\n"
     },
     "FLASHCARDS": {
       "DAILY_TARGET": {
